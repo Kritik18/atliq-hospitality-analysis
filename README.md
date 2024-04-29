@@ -1,1 +1,0 @@
-# atliq-hospitality-analysis
