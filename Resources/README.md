@@ -27,11 +27,11 @@ As a data analyst, my responsibilities include:
 ## Dashboard View:
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img src='https://github.com/Kritik18/atliq-hospitality-analysis/blob/main/Resources/Dashboard.png' height="800">
 </p>
 
 ## Data Model:
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img src='https://github.com/Kritik18/atliq-hospitality-analysis/blob/main/Resources/Data%20Model.png' height="400">
 </p>
